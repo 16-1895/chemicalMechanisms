@@ -1,2 +1,0 @@
-thermophysicalProperties:
-  newFormat       no
